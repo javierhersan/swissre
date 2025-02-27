@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VulnerabilityCli", "vulnerability-cli\VulnerabilityCli.csproj", "{09127B7D-214C-2EA3-9C58-16857D75D6D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09127B7D-214C-2EA3-9C58-16857D75D6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09127B7D-214C-2EA3-9C58-16857D75D6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09127B7D-214C-2EA3-9C58-16857D75D6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09127B7D-214C-2EA3-9C58-16857D75D6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEA3E811-A2A3-45F0-B166-50073B28FA9B}
+	EndGlobalSection
+EndGlobal
