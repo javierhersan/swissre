@@ -1,5 +1,4 @@
-# SwissRE Technical Assessment - C# & Python
-
+# SwissRE Technical Assessment
 This is the solution to SwissRE Technical Assesment. This `README.md` document contains the project setup instructions to run the vulnerability API and the vulnerability CLI. Find the technical assesment instructions in `/docs/technical-assessment`.
 
 # Vulnerability API setup
